@@ -30,7 +30,7 @@ If your declination is east -- in other words, if you're anywhere west of the ag
 
 As a hypothetical for discussion's sake, let's assume for a moment that everything we've described is happening somewhere in the Atlantic region, in an area of west declination. Here the opposite is true, *you subtract your declination going from magnetic to grid, and add it if you're going from grid to magnetic*.
 
-There's a memory crutch to help you keep this all straight. (In fact, there are quite a few, but this one has always worked for me.)
+There's a memory crutch to help you keep this all straight. (In fact, there are quite a few, but this one has always worked for me.)[^3]
 
 First, keep in mind that True North and Grid North are very close to being the same, and for the sake of this memory crutch, we refer to them jointly as "True-Grid."
 
@@ -138,3 +138,5 @@ To take a bearing with a Brunton Combi, first set the compass dial on "North." N
 ![Taking a Bearing with a Brunton Combi](figures/49.jpg)
 
 Like the British prismatics, accurate bearings can be taken with a Brunton Omni even in darkness, provided that a landmark is visible and identifiable and you give the compass a good "flashlight shot" before taking your bearing.
+
+[^2]: *Editor's Note*: In a later class the author also suggested the acronym *LARS*, which the editor finds much easier to remember. *LARS* stands for *Left Add, Right Subtract*. Draw a declination diagram, or picture it in your head. Anytime you are moving to the left (ie, converting from magnetic north to true or grid north in the western United States) you add. Anytime you are moving to the right (ie, converting from true or grid north to magnetic north in the western United States) you subtract.
