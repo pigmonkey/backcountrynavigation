@@ -1,0 +1,7 @@
+---
+title: Back Country Navigation for the Hunter 
+author: Dick Blust, Jr.
+language: en-US
+date: 2004
+publisher: Kifaru Intl.
+...
