@@ -8,13 +8,13 @@ Back country navigation should mean more than being able to find your way back t
 
 I've trained hundreds of fellow cops, rural firefighters, search and rescue volunteers and hunters in back country navigation, and over the years I've developed a hands-on navigation system for serious hunters that emphasizes practicality and utility above all else, focused on a theme of solving the problems most commonly encountered.
 
-Many hunters buy a GPS with the notion that it's going to solve all their navigation problems and replace maps and compasses, and it doesn't help that GPS manufacturers don't do much to dispel this notion. This is poor strategy; the fact is that it's far more effective to combine the resources of all three - map, compass, and GPS -- in an effective, comprehensive system, the components of which actually serve as backups, each for the other.
+Many hunters buy a GPS with the notion that it's going to solve all their navigation problems and replace maps and compasses, and it doesn't help that GPS manufacturers don't do much to dispel this notion. This is poor strategy; the fact is that it's far more effective to combine the resources of all three -- map, compass, and GPS -- in an effective, comprehensive system, the components of which actually serve as backups, each for the other.
 
 Map, compass, and GPS -- we'll deal with them one at a time, covering their interwoven use as we go. I'll be happy to answer any questions through the Kifaru Hunting or Military forum boards.
 
 ## Map
 
-The most important facet of the system - and the least dispensable - is the map, specifically the United States Geological Survey 7 1/2" topographic maps, 1:24,000 scale (1 inch = 24,000 inches, or 2,000 feet), which cover - and are available for - the entire United States outside of Alaska, which is covered by the USGS's 1:63,360 scale (1 inch = 1 mile) topos. (In addition, the USGS also has available the smaller-scale 1:100,000 topos for the lower 48 and the 1:250,000 scale series for Alaska. I like to call maps of this scale "reconnaissance maps." Depending on topography and circumstances, these, too, can be very useful.)
+The most important facet of the system -- and the least dispensable -- is the map, specifically the United States Geological Survey 7 1/2" topographic maps, 1:24,000 scale (1 inch = 24,000 inches, or 2,000 feet), which cover -- and are available for -- the entire United States outside of Alaska, which is covered by the USGS's 1:63,360 scale (1 inch = 1 mile) topos. (In addition, the USGS also has available the smaller-scale 1:100,000 topos for the lower 48 and the 1:250,000 scale series for Alaska. I like to call maps of this scale "reconnaissance maps." Depending on topography and circumstances, these, too, can be very useful.)
 
 ### Grid Systems
 
@@ -137,7 +137,7 @@ Once you have Terrain Navigator for whatever state or states you hunt, you can s
 
 ### Map Problem: Due to its size, the 7 1/2" topo can be unwieldy to carry in the field.
 
-Terrain Navigator Solution: Just select the area you want on the 1:24,000 scale map (1:1 zoom ratio) and print it out at a rate of 48% on a sheet of 8" x 11 (letter size) paper, using either plain paper or special water-resistant paper such as that made by outfits like Rite-in-the-Rain. The result is a map covering virtually the same area of the standard 7 1/2" 1:24,000 topo, normally about 27" x 22," reduced in size to a sheet of typing paper readily folded and slid into a shirt pocket. (For the Alaskan 1:63,360 scale topo, just select your area and print at a rate of 126.72%.) You also have the option of Portrait or Landscape format - your choice, depending on your needs for the particular area.
+Terrain Navigator Solution: Just select the area you want on the 1:24,000 scale map (1:1 zoom ratio) and print it out at a rate of 48% on a sheet of 8" x 11 (letter size) paper, using either plain paper or special water-resistant paper such as that made by outfits like Rite-in-the-Rain. The result is a map covering virtually the same area of the standard 7 1/2" 1:24,000 topo, normally about 27" x 22," reduced in size to a sheet of typing paper readily folded and slid into a shirt pocket. (For the Alaskan 1:63,360 scale topo, just select your area and print at a rate of 126.72%.) You also have the option of Portrait or Landscape format -- your choice, depending on your needs for the particular area.
 
 ### Map Problem: The standard "store-bought" 7 1/2" topo must be gridded by hand to plot coordinates; in addition, a plotting protractor or other device must be used in order to plot a coordinate with any degree of precision.
 
@@ -145,7 +145,7 @@ Terrain Navigator Solution: When you're setting up your map to be printed out at
 
 In yet another plus, using the 48% printout setting on the 1:24,000 scale topo on Terrain Navigator produces a map gridded at exactly the standard military scale of 1:50,000, enabling the optional use of a 1:50,000 UTM corner scale for even greater precision. (For the Alaskan 1:63,360 topos, just select your area, select the UTM-grid option, then print at the rate of 126.72%, which will result in a UTM-gridded 1:50,000-scale mape, enableing the use of a 1:50,000 corner scale, if so desired.)
 
-(The optional use of the UTM corner scale - especially the one built into the Brunton Combi compass - will be covered in the compass section of the essay. )
+(The optional use of the UTM corner scale -- especially the one built into the Brunton Combi compass -- will be covered in the compass section of the essay.)
 
 ### Map Problem: Due, once again, to its size, it is difficult to spread out a standard 7" topo and plot a position as provided by a GPS.
 

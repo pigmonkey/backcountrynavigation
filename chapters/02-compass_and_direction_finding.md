@@ -38,7 +38,7 @@ A product of [Brunton](http://www.brunton.com) of Riverton, Wyoming, the Combi a
 
 There are other night-friendly compasses on the market made by Brunton, Silva, Suunto, and others, but I've used these three extensively and recommend them highly for hunters.
 
-(I'd be remiss if I didn't make an observation at this point. It is often the case with equipment that cheaper means poorer quality, but that is not so here. The Brunton Combi represents an ingenious design that is multi-functional yet extremely light in weight - a great instrument. If I were starting from scratch today, I'd go with this one.)
+(I'd be remiss if I didn't make an observation at this point. It is often the case with equipment that cheaper means poorer quality, but that is not so here. The Brunton Combi represents an ingenious design that is multi-functional yet extremely light in weight -- a great instrument. If I were starting from scratch today, I'd go with this one.)
 
 ## Expressing Direction
 
