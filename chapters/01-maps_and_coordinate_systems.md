@@ -169,7 +169,7 @@ Terrain Navigator Solution: The map size problem is solved by the UTM-gridded 8"
 
 ### Map Problem: For some perverse reason, the areas on a standard topo map the hunter needs most are often near the edges, compelling him to butt multiple adjoining maps together with transparent tape, which is a real headache.
 
-Terrain Navigator Solution:  Terrain Navigator's "Seamless Mode," in which the map boundaries are defined by the user. When creating the UTM-gridded 8" x 11 map, you simply select the "Seamless Mode," which eliminates the standard "store-bought" topographic map boundaries. Select the area you want, then print out the map at the UTM-gridded 48% rate previously described. In the "Seamless Mode," the program ignores the standard map's borders and provides its own.
+Terrain Navigator Solution: Terrain Navigator's "Seamless Mode," in which the map boundaries are defined by the user. When creating the UTM-gridded 8"x11" map, you simply select the "Seamless Mode," which eliminates the standard "store-bought" topographic map boundaries. Select the area you want, then print out the map at the UTM-gridded 48% rate previously described. In the "Seamless Mode," the program ignores the standard map's borders and provides its own.
 
 ![The map's southeast corner is southeast of Deep Lake](figures/09.jpg)
 
