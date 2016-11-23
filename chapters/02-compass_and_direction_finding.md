@@ -233,7 +233,7 @@ Turn the index ring to 51 degrees, as indicated, setting "51" along the index li
 
 ![Setting 051 Degrees & Align the Compass](figures/33.jpg)
 
-With the compass held level at belt level, direction-of-travel arrow/line pointing out, as shown in Figure 33a, turn the entire body until the red "Magnetic North" needle (with the white 'N') on the compass card is aligned with the red "North" arrow on the index dial, as shown in Figure 34.
+With the compass held level at belt level, direction-of-travel arrow/line pointing out, as shown in Figure 33a, turn the entire body until the red "Magnetic North" needle (with the white "N") on the compass card is aligned with the red "North" arrow on the index dial, as shown in Figure 34.
 
 The Combi's luminous direction-of-travel arrow/line is now pointing along a heading/course of 051 degrees magnetic. Camp is along this imaginary direction-of-travel line, about 6/10s of a mile away.
 
