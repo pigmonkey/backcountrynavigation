@@ -61,7 +61,7 @@ For the precision we need, the compass rose is further divided up into a full ci
 
 ![A Precise Compass Rose](figures/16.jpg)
 
-(There is a second direction system those with a military background will probably have encountered: mils. Within this system, a full circle of 360 degrees is replacedwith a circle of 6400 mils. North is 0000 or 6400 mils, east becomes 1600 mils, south is 3200 mills, west is 4800 mils, and so on. Any GPS can be set to use mils instead of degrees, and the M27 military lensatic compass is dual-graduated to permit the use of either degrees or mils. In any event, the drill is exactly the same -- you're simply substituting mils for degrees -- but for simplicity's sake I recommend that hunters stick with degrees.)
+(There is a second direction system those with a military background will probably have encountered: mils. Within this system, a full circle of 360 degrees is replaced with a circle of 6400 mils. North is 0000 or 6400 mils, east becomes 1600 mils, south is 3200 mills, west is 4800 mils, and so on. Any GPS can be set to use mils instead of degrees, and the M27 military lensatic compass is dual-graduated to permit the use of either degrees or mils. In any event, the drill is exactly the same -- you're simply substituting mils for degrees -- but for simplicity's sake I recommend that hunters stick with degrees.)
 
 
 ## The Three Norths
