@@ -131,7 +131,7 @@ Terrain Navigator features every 7 1/2"-1:24,000 USGS and 1:100,000-scale map in
 
 Once you have Terrain Navigator for whatever state or states you hunt, you can start "rolling your own" maps. Any decent color inkjet or color laser printer will do; in fact, the color inkjet printers produce a somewhat higher quality map.
 
- MapTech's website offers a unique feature. At no charge, you can download a full-featured demo of Terrain Navigator, which includes a single USGS 7 1/2" topographic map, one of the Colorado quads. Once you've read through the "Map Problems, Map Solutions" section, which follows next, you might want to print it out, then download the Terrain Navigator demo to get a hands-on feel for things.
+MapTech's website offers a unique feature. At no charge, you can download a full-featured demo of Terrain Navigator, which includes a single USGS 7 1/2" topographic map, one of the Colorado quads. Once you've read through the "Map Problems, Map Solutions" section, which follows next, you might want to print it out, then download the Terrain Navigator demo to get a hands-on feel for things.
 
 ## Map Problems, Map Solutions
 
