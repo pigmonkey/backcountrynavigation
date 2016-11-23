@@ -181,7 +181,7 @@ Terrain Navigator Solution: Print out two or three copies of each map you'll nee
 
 ## Other Terrain Navigator Features and Advantages
 
- * Find maps and place names quickly; if a the place name of a creek, mountain, river, etc., appears on the USGS map, then Terrain Navigator's search mode will find it. It will also find the location of any coordinate that you tap into it.
+ * Find maps and place names quickly; if the place name of a creek, mountain, river, etc., appears on the USGS map, then Terrain Navigator's search mode will find it. It will also find the location of any coordinate that you tap into it.
  * As you move the cursor over the Terrain Navigator map, it's providing grid coordinates and altitude in whatever system you've chosen.
  * Terrain Navigator's maps can be viewed in either a conventional 2-D or 3-D mode.
  * "Waypoints" and "Landmarks" (depending on which brand of GPS you're using) can be transferred manually or electronically from Terrain Navigator to your GPS and vice versa.
