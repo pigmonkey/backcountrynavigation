@@ -88,9 +88,9 @@ The issue of how far a GPS is moved before a new initialization is required has 
 
 A GPS has three basic functions:
 
- * It plots the instrument's current position and identifies that position's coordinate on the display screen.
- * It marks (saves) positions -- called "waypoints" or "landmarks" depending on the brand of GPS -- in its memory. These positions are created and stored when the user is physically present and marks the position with his GPS, is physically elsewhere and enters the position's coordinates manually, or transfers them electronically from a computer mapping program like Terrain Navigator to the GPS.
- * It identifies the distance and bearings from the instrument's location to stored positions, that is, "waypoints" or "landmarks." ("Waypoints" and "Landmarks" are the same thing. For simplicity's sake, we'll refer to them as "waypoints/landmarks.")
+1. It plots the instrument's current position and identifies that position's coordinate on the display screen.
+2. It marks (saves) positions -- called "waypoints" or "landmarks" depending on the brand of GPS -- in its memory. These positions are created and stored when the user is physically present and marks the position with his GPS, is physically elsewhere and enters the position's coordinates manually, or transfers them electronically from a computer mapping program like Terrain Navigator to the GPS.
+3. It identifies the distance and bearings from the instrument's location to stored positions, that is, "waypoints" or "landmarks." ("Waypoints" and "Landmarks" are the same thing. For simplicity's sake, we'll refer to them as "waypoints/landmarks.")
 
 We see, then, that a GPS provides the same resources as map and compass: position plotting and direction finding. The key, however, as has already been pointed out, is to make your GPS work *for* you, combining its utility with other resources like map and compass.
 
