@@ -10,7 +10,7 @@ Whether it involves GPS, compass, or both, map work -- including position plotti
 
 The process of taking bearings from objects in the real world and transferring them to the map in order to determine position -- position plotting -- is called "triangulation" in the civilian world and "resection" by the military. For simplicity's sake, we'll use the combination phrase "Triangulation/Resection."
 
-The Triangulation/Resection process is pretty much a universal and instructions follow. The primary difference in the process among our three recommended compasses -- the British prismatics, the military M27 lensatic, and the Brunton Combi -- is the in the mechanics of taking the bearings and we'll cover each individually.
+The Triangulation/Resection process is pretty much a universal and instructions follow. The primary difference in the process among our three recommended compasses -- the British prismatics, the military M27 lensatic, and the Brunton Combi -- is in the mechanics of taking the bearings and we'll cover each individually.
 
 As we've done before, let's move straight to an example, beginning with the map in Figure 35, which covers a section of the upper Green River country in Wyoming.
 
