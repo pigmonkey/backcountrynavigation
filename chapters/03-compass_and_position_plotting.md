@@ -95,13 +95,13 @@ Now that you've plotted your position, you want to make the climb to Toppan Lake
 
 Using either a protractor (as shown in Figure 43) or your Combi compass (Figure 44), you can now determine the grid north course from your position along the trail to Toppan Lake.
 
-![Determing the Grid North Course with a Protractor](figures/43.jpg)
-
-![Determing the Grid North Course with a Combi](figures/44.jpg)
-
 To use a protractor in this application, place its center hole squarely over your position, then, keeping the center hole positioned there, turn the protractor carefully until it is squarely aligned with the UTM grid lines on the map. You can then read your grid north course along the edge of the protractor where your course line strikes it which, in this case, is 167.
 
+![Determing the Grid North Course with a Protractor](figures/43.jpg)
+
 To obtain your grid north course with a Brunton Combi compass, place the edge of the compass along the course line you've drawn in from your position on the trail to Toppan Lake. Then, keeping the edge of the compass carefully aligned with your course line, turn the compass dial until the compass's north-south grid lines are aligned with the map's north-south UTM grid lines, as shown. The reading on the compass dial is your course; in this case, 167.
+
+![Determing the Grid North Course with a Combi](figures/44.jpg)
 
 The next step will be to convert this grid course to a magnetic course so that you can put it on our non-declination adjustable compass. Now - once again following the formula in areas of east declination - we subtract the 13 degrees difference because we're going from true-grid (the map) to magnetic (our non-declination adjustable compass). This results in a magnetic course of 154 degrees, which you then put on your compass and head out. (After studying your line of travel on your map, of course.)
 
