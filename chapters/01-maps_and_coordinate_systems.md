@@ -129,7 +129,7 @@ The solution to just about every problem involving standard "store-bought" topog
 
 Terrain Navigator features every 7 1/2"-1:24,000 USGS and 1:100,000-scale map in the United States outside of Hawaii (plus all the 1:63,360 and 1:250,000 Alaskan topos) on CD, packaged state by state. Available through dealers and directly from [MapTech](http://www.maptech.com). The state-by-state packages sell for about $99.95 per state, except for Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and Connecticut, which are bundled into one package, and New Jersey, Delaware, Maryland, and Washington DC, which are bundled into another. (Bear in mind that for your hundred bucks you're getting every 1:24,000 and 1:100,000 topo for the entire state or region you choose in the lower 48 or every 1:63,360 and 1:250,00 map for Alaska, including Terrain Navigator's numerous features, which will be described shortly.)
 
-Once you have Terrain Navigator for whatever state or states you hunt, you can start "rolling your own" maps. Any decent color in r color laser printer will do; in fact, the color in a somewhat higher quality map.
+Once you have Terrain Navigator for whatever state or states you hunt, you can start "rolling your own" maps. Any decent color inkjet or color laser printer will do; in fact, the color inkjet printers produce a somewhat higher quality map.
 
  MapTech's website offers a unique feature. At no charge, you can download a full-featured demo of Terrain Navigator, which includes a single USGS 7 1/2" topographic map, one of the Colorado quads. Once you've read through the "Map Problems, Map Solutions" section, which follows next, you might want to print it out, then download the Terrain Navigator demo to get a hands-on feel for things.
 
